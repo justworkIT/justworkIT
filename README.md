@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Allen Uy
 
-<!--
-**justworkIT/justworkIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+IT graduate focused on full-stack web development, database management, and automation.
 
-Here are some ideas to get you started:
+## ⚙️ Tech Stack
+- 💻 PHP, JavaScript
+- 🗄️ MySQL
+- 🌐 HTML, CSS, AJAX, JSON
+- ⚙️ cPanel, XAMPP
+- 🔄 cURL, Cron Jobs, DOM Parsing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗃 Database & Automation
+- Built automated movie & TV curator system
+- Implemented scheduled scraping and updates
+- Designed structured MySQL databases
+
+## 🚀 Projects
+
+### 🎬 Movie & TV Curator
+- WordPress customized UI
+- Automated content scraping
+- Video streaming integration
+
+### 🖥 Internet Cafe System
+- Custom-built PHP/MySQL system
+- 4-panel dashboard layout
+- Internal network deployment
