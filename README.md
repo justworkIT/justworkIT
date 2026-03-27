@@ -1,28 +1,89 @@
 # 👋 Hi, I'm Allen Uy
 
+### 💻 Full-Stack Web Developer | Database & Automation Specialist
+
+---
+
 ## 🧑‍💻 About Me
-IT graduate focused on full-stack web development, database management, and automation.
+IT graduate focused on building **data-driven web applications**, specializing in **PHP, MySQL, and automation systems**.
+
+I develop platforms that:
+- 🔄 Automate content updates using web scraping
+- 🗄️ Handle structured database systems efficiently
+- ⚙️ Run scheduled backend processes (cron jobs)
+
+💡 Passionate about turning manual workflows into **automated systems**
+
+---
 
 ## ⚙️ Tech Stack
-- 💻 PHP, JavaScript
-- 🗄️ MySQL
-- 🌐 HTML, CSS, AJAX, JSON
-- ⚙️ cPanel, XAMPP
-- 🔄 cURL, Cron Jobs, DOM Parsing
 
-## 🗃 Database & Automation
-- Built automated movie & TV curator system
-- Implemented scheduled scraping and updates
-- Designed structured MySQL databases
+### 🖥️ Backend
+- PHP
+- MySQL
+- AJAX / JSON
+
+### 🌐 Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### ⚙️ Tools & Systems
+- cPanel / XAMPP
+- phpMyAdmin
+- Cron Jobs
+- cURL
+- HTML DOM Parsing
+
+---
+
+## 🗃️ Database & Automation Experience
+
+- Designed structured MySQL databases for dynamic applications
+- Built automated scraping systems for content aggregation
+- Implemented scheduled updates using cron jobs
+- Optimized database queries for faster data retrieval
+
+---
 
 ## 🚀 Projects
 
-### 🎬 Movie & TV Curator
-- WordPress customized UI
-- Automated content scraping
-- Video streaming integration
+### 🎬 Movie & TV Curator System
+A fully automated content platform that aggregates and updates media data.
 
-### 🖥 Internet Cafe System
-- Custom-built PHP/MySQL system
-- 4-panel dashboard layout
-- Internal network deployment
+**Key Features:**
+- 🔄 Automated web scraping using cURL + DOM parsing
+- 🕒 Scheduled updates via cron jobs
+- 🎨 Customized WordPress UI
+- 🎥 HTML5 video streaming integration
+
+---
+
+### 🖥️ Internet Cafe Management System
+Custom-built internal system for managing updates and content.
+
+**Key Features:**
+- 📊 4-panel dashboard layout
+- 🗄️ Full CRUD functionality (PHP/MySQL)
+- 🌐 Local network deployment (XAMPP)
+- ⚡ Lightweight and responsive design
+
+---
+
+## 📊 GitHub Stats
+
+![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=justworkIT&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: your-email-here
+- 🌐 Portfolio (soon)
+- 📱 Facebook: your-link-here
+
+---
+
+## 💡 Current Focus
+- Improving backend architecture
+- Learning modern frameworks
+- Scaling automation systems
