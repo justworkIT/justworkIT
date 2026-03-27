@@ -70,20 +70,10 @@ Custom-built internal system for managing updates and content.
 
 ---
 
-## 📊 GitHub Stats
-
-![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=justworkIT&show_icons=true&theme=dark)
-
----
-
-## 📫 Connect With Me
-- 📧 Email: your-email-here
-- 🌐 Portfolio (soon)
-- 📱 Facebook: your-link-here
-
----
-
 ## 💡 Current Focus
-- Improving backend architecture
+- Building PHP/MySQL web applications
+- Improving database design and CRUD systems
+- Learning GitHub, Git, and professional deployment workflow
+- Expanding automation and scraping projects
 - Learning modern frameworks
 - Scaling automation systems
