@@ -5,14 +5,15 @@
 ---
 
 ## 🧑‍💻 About Me
-Web Developer focused on building **data-driven web applications**, using **PHP, MySQL, and APIs**.
+Full-Stack Web Developer focused on building **data-driven web applications**, using **PHP, MySQL, and APIs**.
 
-I specialize in:
-- 🔄 Data scraping and aggregation using cURL and DOM parsing
-- ⚙️ Automating workflows with cron jobs and n8n
-- 🗄️ Designing structured databases for scalable systems
+I develop complete systems from backend processing to frontend interfaces, with a strong focus on:
+- 🔄 Data scraping and API integration (cURL, REST APIs)
+- ⚙️ Workflow automation using cron jobs and n8n
+- 🗄️ Scalable database design and backend logic
+- 🌐 Responsive frontend development for user-facing applications
 
-💡 I build systems that replace manual processes with fully automated pipelines.
+💡 I build systems that automate workflows and reduce manual processes while delivering functional user interfaces.
 
 ---
 
@@ -56,39 +57,35 @@ I specialize in:
 ## 🚀 Projects
 
 ### 🎬 Movie & TV Curator System
-Automated content aggregation system that collects, normalizes, and updates movie/TV data from external APIs (TMDB, IMDB), eliminating manual data entry.
+Full stack web application that aggregates and displays movie and TV data from external APIs (TMDB, IMDB).
 
 **Key Features:**
-- Built scraping engine using cURL + DOM parser to extract structured data
+- Built backend scraping engine using cURL and DOM parsing
 - Automated updates using cron jobs (fully hands-off operation)
 - Integrated WordPress API for content management (CRUD automation)
+- Designed frontend UI to display dynamic movie data using HTML, CSS, JavaScript
 - Implemented JSON-based temporary data handling for processing pipelines
 
 
 
 ### 💿 Winamp Playlist Automation Tool (Desktop Utility)
-Windows-based automation tool that ensures 100% accuracy of customer's playlist selection will be burned into a CD exactly as prepared and eliminated manual errors that resulted in reprocessing delays and additional operational costs.
+Windows-based automation tool that ensures 100% accuracy of customer's playlist selection will be burned into a CD reducing manual processing errors and improved workflow efficiency.
 
 **Key Features:**
 - Extracts song lists and file paths from Winamp playlists
 - Automated file organization for CD burning
 - Generated formatted tracklists for CD label printing
-
-Tech:
-- File system automation
-- Data parsing and transformation
-
+  
 
 
 ### 🖥️ Internet Cafe Management System
-Built a custom web-based information system for an internet café to manage announcements and customer interactions
+Full Stack web-based information system for an internet café to manage announcements and customer interactions
 
 **Key Features:**
-- Designed 4-panel admin dashboard for content management
-- Full CRUD functionality (PHP/MySQL)
+- Built full CRUD system using PHP and MySQL
+- Designed responsive frontend interface using HTML, CSS, JavaScript
 - Implemented real-time chat system for customer-admin communication
 - Structured database for scalability and efficient data handling 
-- lightweight responsive frontend design using HTML, CSS and JavaScript
 
 ---
 
