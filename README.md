@@ -5,14 +5,14 @@
 ---
 
 ## 🧑‍💻 About Me
-IT graduate focused on building **data-driven web applications**, specializing in **PHP, MySQL, and automation systems**.
+Web Developer focused on building **data-driven web applications**, using **PHP, MySQL, and APIs**.
 
-I develop platforms that:
-- 🔄 Automate content updates using web scraping
-- 🗄️ Handle structured database systems efficiently
-- ⚙️ Run scheduled backend processes (cron jobs)
+I specialize in:
+- 🔄 Data scraping and aggregation using cURL and DOM parsing
+- ⚙️ Automating workflows with cron jobs and n8n
+- 🗄️ Designing structured databases for scalable systems
 
-💡 Passionate about turning manual workflows into **automated systems**
+💡 I build systems that replace manual processes with fully automated pipelines.
 
 ---
 
@@ -21,26 +21,33 @@ I develop platforms that:
 ### 🖥️ Backend
 - PHP
 - MySQL
-- AJAX / JSON
+- REST APIs
+- cURL
+- JSON
 
 ### 🌐 Frontend
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
-### ⚙️ Tools & Systems
-- cPanel / XAMPP
-- phpMyAdmin
+### 🔄 Automation & Data Processing
 - Cron Jobs
-- cURL
-- HTML DOM Parsing
+- Web Scraping (DOM Parser)
+- Workflow Automation (n8n)
+
+### 🛠️ Tools & Environment
+- Git (Version Control)
+- Docker (Local Development / Containers)
+- phpMyAdmin
+- cPanel / XAMPP
+- ngrok (expose local server for webhook/API)
 
 ---
 
 ## 🗃️ Database & Automation Experience
 
 - Designed structured MySQL databases for dynamic applications
-- Built automated scraping systems for content aggregation
+- Built automated scraping systems that eliminated manual content updates
 - Implemented scheduled updates using cron jobs
 - Optimized database queries for faster data retrieval
 
@@ -49,31 +56,45 @@ I develop platforms that:
 ## 🚀 Projects
 
 ### 🎬 Movie & TV Curator System
-A fully automated content platform that aggregates and updates media data.
+Automated content aggregation system that collects, normalizes, and updates movie/TV data from external APIs (TMDB, IMDB), eliminating manual data entry.
 
 **Key Features:**
-- 🔄 Automated web scraping using cURL + DOM parsing
-- 🕒 Scheduled updates via cron jobs
-- 🎨 Customized WordPress UI
-- 🎥 HTML5 video streaming integration
+- Built scraping engine using cURL + DOM parser to extract structured data
+- Automated updates using cron jobs (fully hands-off operation)
+- Integrated WordPress API for content management (CRUD automation)
+- Implemented JSON-based temporary data handling for processing pipelines
 
----
+
+
+### 💿 Winamp Playlist Automation Tool (Desktop Utility)
+Windows-based automation tool that ensures 100% accuracy of customer's playlist selection will be burned into a CD exactly as prepared and eliminated manual errors that resulted in reprocessing delays and additional operational costs.
+
+**Key Features:**
+- Extracts song lists and file paths from Winamp playlists
+- Automated file organization for CD burning
+- Generated formatted tracklists for CD label printing
+
+Tech:
+- File system automation
+- Data parsing and transformation
+
+
 
 ### 🖥️ Internet Cafe Management System
-Custom-built internal system for managing updates and content.
+Built a custom web-based information system for an internet café to manage announcements and customer interactions
 
 **Key Features:**
-- 📊 4-panel dashboard layout
-- 🗄️ Full CRUD functionality (PHP/MySQL)
-- 🌐 Local network deployment (XAMPP)
-- ⚡ Lightweight and responsive design
+- Designed 4-panel admin dashboard for content management
+- Full CRUD functionality (PHP/MySQL)
+- Implemented real-time chat system for customer-admin communication
+- Structured database for scalability and efficient data handling 
+- lightweight responsive frontend design using HTML, CSS and JavaScript
 
 ---
 
-## 💡 Current Focus
-- Building PHP/MySQL web applications
-- Improving database design and CRUD systems
-- Learning GitHub, Git, and professional deployment workflow
-- Expanding automation and scraping projects
-- Learning modern frameworks
+## 🎯 Current Focus
+- Expanding automation and scraping systems
+- Building PHP/MySQL backend systems
+- Improving database architecure and performance
+- Learning modern frameworks and deployment workflows
 - Scaling automation systems
